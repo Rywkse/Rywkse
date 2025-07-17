@@ -16,7 +16,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/youssef-ramzy0/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ramzy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.link/gxckgg" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ramzy-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.link/yuis7b" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ramzy-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPP&logoColor=563D7C)&nbsp;
 
