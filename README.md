@@ -23,6 +23,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![LINUX](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@youssef-ramzy/30-nites-of-code)  
-  ![@youssef-ramzy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=youssef-ramzy)
